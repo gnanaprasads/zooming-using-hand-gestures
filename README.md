@@ -36,7 +36,7 @@ pip install opencv-python cvzone
 How to Run
 Clone this repository:
 
-git clone https://github.com/gnanaprasads/hand-gesture-image-viewer.git
+git clone https://github.com/gnanaprasads/zooming-using-hand-gestures.git
 Navigate to the project directory:
 
 
